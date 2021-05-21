@@ -18,10 +18,10 @@ build:
 requirements:
   host:
     - pip
-    - python >=2.7
+    - python >=3.6
   run:
     - future
-    - python >=2.7
+    - python >=3.6
     - python-dateutil
     - thrift >=0.10.0
     - thrift_sasl >0.2.1
